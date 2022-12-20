@@ -18,9 +18,9 @@ Para rodar este software na sua maquina, você precisa fazer o download do repos
 * [JS]
 
 
-## ✒️ Autores
+## ✒️ Autor
 
-* **Desenvolvedor do projeto** - *FullStack* - [Leandro Ucuamba](https://github.com/LeandroUcuamba)
+* **Desenvolvedor do projeto** - [Leandro Ucuamba](https://github.com/LeandroUcuamba)
 
 
 ## 📄 Projeto:
